@@ -1,4 +1,4 @@
-# Hey, I'm Pollyana Oliveira👋
+# Hey, I'm Pollyana Oliveira 👋🏽
 
  <div>
 <a href="https://github.com/PollyanaOliveira">
