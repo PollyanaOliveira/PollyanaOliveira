@@ -8,7 +8,7 @@
  
  ## Who I am? 👩🏽
 
-👩🏽‍🏫 I'm a web development at studenty at [Trybe](https://www.betrybe.com/?utm_source=trybe.com.br) School.
+👩🏽‍🏫 I'm a web development at studenty at Trybe School.
  </br>
 🤓 I'm currently learning React. I'm very interested in improving my knowledge in Tests especially in RTL.
 </br>
