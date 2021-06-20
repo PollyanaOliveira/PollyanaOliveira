@@ -6,13 +6,18 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyanaOliveira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-👩🏽‍🏫 I'm a web development student at [Trybe](https://www.betrybe.com/?utm_source=trybe.com.br) School, 2021-2022.
+👩🏽‍🏫 I'm a web development at studenty at [Trybe](https://www.betrybe.com/). School, 2021-2022.
+ </br>
 🤓 I'm currently learning React. I'm very interested in improving my knowledge in Tests especially in RTL.
+</br>
 👩🏽‍🎓 Furthermore, I'm degree in Pedagogy from the State University of Mato Grosso do Sul - UEMS.
+</br>
 🥦 I'm veggie.
+</br>
 🏃🏽‍♀️ I'm constantly on the move. Never accommodate!
-
+</br>
 ⚫️ I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+</br>
 🌎 Know the four corners of the world is my dream.
 
 ##### "...the best things in life from the other side of fear". Smith, Will
