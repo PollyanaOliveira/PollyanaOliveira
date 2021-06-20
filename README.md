@@ -5,6 +5,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PollyanaOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyanaOliveira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+ 
+ ## Who I am? 👩🏽
 
 👩🏽‍🏫 I'm a web development at studenty at Trybe School.
  </br>
