@@ -18,7 +18,7 @@
 </br>
 🏃🏽‍♀️ I'm constantly on the move. Never accommodate!
 </br>
-⚫️ I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+💡 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 </br>
 🌎 Know the four corners of the world is my dream.
 
