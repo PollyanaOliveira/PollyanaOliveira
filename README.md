@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyanaOliveira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-👩🏽‍🏫 I'm a web development at studenty at [Trybe](https://www.betrybe.com/).
+👩🏽‍🏫 I'm a web development at studenty at Trybe School.
  </br>
 🤓 I'm currently learning React. I'm very interested in improving my knowledge in Tests especially in RTL.
 </br>
@@ -20,7 +20,7 @@
 </br>
 🌎 Know the four corners of the world is my dream.
 
-##### "...the best things in life from the other side of fear". Smith, Will
+#### "...the best things in life from the other side of fear". Smith, Will
 
  - 📍From Campo Grande - MS 🇧🇷
 
