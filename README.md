@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hey, I'm Pollyana Oliveira👋
 
-<!--
-**PollyanaOliveira/PollyanaOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+<a href="https://github.com/PollyanaOliveira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PollyanaOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyanaOliveira&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+👩🏽‍🏫 I'm a web development student at [Trybe](https://www.betrybe.com/?utm_source=trybe.com.br) School, 2021-2022.
+🤓 I'm currently learning React. I'm very interested in improving my knowledge in Tests especially in RTL.
+👩🏽‍🎓 Furthermore, I'm degree in Pedagogy from the State University of Mato Grosso do Sul - UEMS.
+🥦 I'm veggie.
+🏃🏽‍♀️ I'm constantly on the move. Never accommodate!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚫️ I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+🌎 Know the four corners of the world is my dream.
+
+##### "...the best things in life from the other side of fear". Smith, Will
+
+ - 📍From Campo Grande - MS 🇧🇷
+
+## 🖥️ Technologies:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Polly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Polly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Polly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Polly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Polly-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
+ <img align="center" alt="Polly-Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
+  <img align="center" alt="Polly-Branch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ 
+
+</div>
+ 
+ ## Fallow me 👇🏽
+ 
+<div> 
+<a href="https://instagram.com/oliveira_pollyana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:pollyana.deoliveir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/oliveirapollyana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
