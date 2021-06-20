@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyanaOliveira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-👩🏽‍🏫 I'm a web development at studenty at [Trybe](https://www.betrybe.com/). School, 2021-2022.
+👩🏽‍🏫 I'm a web development at studenty at [Trybe](https://www.betrybe.com/).
  </br>
 🤓 I'm currently learning React. I'm very interested in improving my knowledge in Tests especially in RTL.
 </br>
