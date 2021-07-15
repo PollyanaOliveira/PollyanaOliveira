@@ -19,6 +19,7 @@
 #### "...the best things in life from the other side of fear". Smith, Will
 
  - 📍From Campo Grande - MS 🇧🇷
+- 📄 See my <a href="https://gitconnected.com/pollyanaoliveira/resume" target="blank">Curriculum Vitae</a> to get more info
  
 
 ## 🖥️ Technologies
