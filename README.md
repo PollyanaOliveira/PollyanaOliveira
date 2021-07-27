@@ -1,8 +1,8 @@
 # Hey, I'm Pollyana Oliveira 👋🏽
 
- ## Who I am? 👩🏽
+ ## 👩🏽 Who I am? 
 
-👩🏽‍🏫 I'm a web development at studenty at Trybe School.
+👩🏽‍💻 I'm a web development at studenty at Trybe School.
  </br>
 🤓 I'm currently learning React. I'm very interested in improving my knowledge in Tests especially in RTL.
 </br>
