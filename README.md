@@ -14,11 +14,8 @@
 </br>
 💡 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 </br>
-🌎 Know the four corners of the world is my dream.
 
-#### "...the best things in life from the other side of fear". Smith, Will
-
- - 📍From Campo Grande - MS 🇧🇷
+- 📍From Campo Grande - MS 🇧🇷
 - 📄 See my <a href="https://gitconnected.com/pollyanaoliveira/resume" target="blank">Curriculum Vitae</a> to get more info
  
 
