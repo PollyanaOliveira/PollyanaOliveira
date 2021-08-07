@@ -8,12 +8,6 @@
 </br>
 👩🏽‍🎓 Furthermore, I'm degree in Pedagogy from the State University of Mato Grosso do Sul - UEMS.
 </br>
-🥦 I'm veggie.
-</br>
-🏃🏽‍♀️ I'm constantly on the move. Never accommodate!
-</br>
-💡 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-</br>
 
 - 📍From Campo Grande - MS 🇧🇷
 - 📄 See my <a href="https://gitconnected.com/pollyanaoliveira/resume" target="blank">Curriculum Vitae</a> to get more info
