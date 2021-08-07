@@ -17,6 +17,7 @@
 
 - 📍From Campo Grande - MS 🇧🇷
 - 📄 See my <a href="https://gitconnected.com/pollyanaoliveira/resume" target="blank">Curriculum Vitae</a> to get more info
+- 📓 See also my <a href="https://github.com/PollyanaOliveira/Portfolio" target="blank">Portfolio</a> to know my projects 🏗️
  
 
 ## 🖥️ Technologies
