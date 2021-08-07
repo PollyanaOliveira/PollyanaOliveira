@@ -6,7 +6,7 @@
  </br>
 🤓 I'm currently learning React. I'm very interested in improving my knowledge in Tests especially in RTL.
 </br>
-👩🏽‍🎓 Furthermore, I'm degree in Pedagogy from the State University of Mato Grosso do Sul - UEMS.
+👩🏽‍🎓 Furthermore, I'm degree in Education from the State University of Mato Grosso do Sul - UEMS.
 </br>
 
 - 📍From Campo Grande - MS 🇧🇷
