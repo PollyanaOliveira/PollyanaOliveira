@@ -1,12 +1,12 @@
 # Hey, I'm Pollyana Oliveira 👋🏽
 
- ## 👩🏽 Who I am? 
+ ## 👩🏽 Who am I? 
 
-👩🏽‍💻 I'm a web development at student at [Trybe](https://www.betrybe.com/) School.
+👩🏽‍💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
  </br>
 🤓 I'm currently learning React. I'm very interested in improving my knowledge in Tests.
 </br>
-👩🏽‍🎓 Furthermore, I'm degree in Education from the State University of Mato Grosso do Sul - UEMS.
+👩🏽‍🎓 Furthermore, I have degree in Education from the Universidade Estadual de Mato Grosso do Sul - UEMS.
 </br>
 
 - 📍From Campo Grande - MS 🇧🇷
