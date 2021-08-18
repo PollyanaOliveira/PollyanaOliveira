@@ -4,7 +4,7 @@
 
 👩🏽‍💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
  </br>
-🤓 I'm currently learning React. I'm very interested in improving my knowledge in Tests.
+🤓 I'm currently learning Back-End. I'm very interested in improving my knowledge in Tests.
 </br>
 👩🏽‍🎓 Furthermore, I have degree in Education from the Universidade Estadual de Mato Grosso do Sul - UEMS.
 </br>
