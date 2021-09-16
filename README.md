@@ -4,7 +4,7 @@
 
 👩🏽‍💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
  </br>
-🤓 I'm currently learning Back-End. I'm very interested in improving my knowledge in Tests.
+🤓 I'm currently learning Back-End.
 </br>
 👩🏽‍🎓 Furthermore, I have degree in Education from the Universidade Estadual de Mato Grosso do Sul - UEMS.
 </br>
@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
