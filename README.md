@@ -3,13 +3,9 @@
  ## 👩🏽 Who am I? 
 
 👩🏾‍🏫 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
- </br>
-🤓 I'm currently learning Back-End.
 </br>
 👩🏽‍💻 I'm currently working at [Icomm Group](https://www.linkedin.com/company/icomm-goup/?originalSubdomain=br).
-</br>
-👩🏽‍🎓 Furthermore, I have degree in Education from the Universidade Estadual de Mato Grosso do Sul - UEMS.
-</br>
+
 
 - 📍From Campo Grande - MS 🇧🇷
 - 📄 See my <a href="https://gitconnected.com/pollyanaoliveira/resume" target="blank">Curriculum Vitae</a> to get more info.
